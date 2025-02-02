@@ -1,0 +1,14 @@
+@import 'bootstrap/scss/bootstrap';
+
+img{
+  max-width: 100%;
+}
+.object-fit{
+  object-fit: contain;
+}
+.primary-image{
+  height: 300px;
+}
+.images{
+  height: 150px;
+}
